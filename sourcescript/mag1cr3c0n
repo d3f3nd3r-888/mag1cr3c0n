@@ -58,7 +58,7 @@ echo " "
 echo "Select type of Scan: "
 echo " 	1. Quick Scan			2. Regular Scan
 	3. Scan Top Ports		4. Scan All TCP Ports
-	5. Scan All UDP ports		6. Slow Comprehensive Scan " 
+	5. Scan All UDP ports " 
 read nmap
 if [ "$nmap" = 1 ]
 then
@@ -90,12 +90,6 @@ echo "Scan All UDP Ports "
 echo "nmap -sS -sU -T4 -A -v $ip "
 echo " "
 nmap -sS -sU -T4 -A -v $ip -oN $folder/nmapscan/alludpportsscan.txt
-elif [ "$nmap" = 6 ]
-then
-echo "Scan All TCP Ports "
-echo "nmap -p 1-65535 -T4 -A -v $ip "
-echo " "
-nmap -sS -sU -T4 -A -v -PE -PP -PS80,443 -PA3389 -PU40125 -PY -g 53 --script "default or (discovery and safe)" $ip -oN $folder/nmapscan/slowcomprehensivescan.txt
 else
 echo "Invalid Input "
 fi
