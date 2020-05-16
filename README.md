@@ -33,6 +33,49 @@ root@kali:~# ./install.sh
 If you like my script give respect on Hackthebox.eu
 https://www.hackthebox.eu/home/users/profile/19685
 </pre>
+# ***Modules Available in this Script***
 <pre>
-
+***************************************************
+Nmap Scan Types
+1. Quick Scan			2. Regular Scan
+3. Scan Top Ports		4. Scan All TCP Ports
+5. Scan All UDP ports		6. Slow Comprehensive Scan
+***************************************************
+</pre>
+<pre>
+**********************************************
+Gobuster Scan Types
+1. Directory Scan i.e http://website.com/FUZZ
+2. Subdomain Scan i.e FUZZ.website.com
+**********************************************
+</pre>
+<pre>
+______________Directory Scan______________
+1. Scan Without Extensions i.e Normal Scan
+    1. Small Wordlist
+    2. Medium Wordlist
+    3. Large Wordlist
+    4. Custom Wordlist
+2. Scan With Extensions i.e scanning for pages or files with known extensions
+    1. Small Wordlist
+    2. Medium Wordlist
+    3. Large Wordlist
+    4. Custom Wordlist
+______________Subdomain Scan______________
+    1. Small Wordlist
+    2. Medium Wordlist
+    3. Large Wordlist
+    4. Custom Wordlist
+</pre>
+<pre>
+**********************************************
+                 enum4linux
+**********************************************
+enum4linux all common modules
+</pre>
+<pre>
+**********************************************
+                    nikto
+**********************************************
+nikto normal scan
 </pre>
