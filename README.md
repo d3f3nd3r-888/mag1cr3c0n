@@ -1,2 +1,38 @@
-# mag1cr3c0n
-Usage: call from terminal 'mag1cr3c0n' and follow onscreen instructions. Available Modules: nmap, gobuster, enum4linux, nikto
+# **mag1cr3c0n**
+#### *Usage: call from terminal 'mag1cr3c0n' and follow onscreen instructions. Available Modules: nmap, gobuster, enum4linux and nikto*
+<pre>
+To install:   
+root@kali:~# git clone https://github.com/d3f3nd3r-888/mag1cr3c0n.git 
+root@kali:~# chmod 777 install.sh  
+root@kali:~# ./install.sh  
+
+  __  __            __        _____  ____        ___           _____           _       _   
+ |  \/  |          /_ |      |  __ \|___ \      / _ \         / ____|         (_)     | |  
+ | \  / | __ _  __ _| | ___  | |__) | __) | ___| | | |_ __   | (___   ___ _ __ _ _ __ | |_ 
+ | |\/| |/ _` |/ _` | |/ __| |  _  / |__ < / __| | | | '_ \   \___ \ / __| '__| | '_ \| __|
+ | |  | | (_| | (_| | | (__  | | \ \ ___) | (__| |_| | | | |  ____) | (__| |  | | |_) | |_ 
+ |_|  |_|\__,_|\__, |_|\___| |_|  \_\____/ \___|\___/|_| |_| |_____/ \___|_|  |_| .__/ \__|
+                __/ |                                                           | |        
+               |___/                                                            |_|        
+
+   _______________                        |*\_/*|________
+  |  ___________  |     .-.     .-.      ||_/-\_|______  |
+  | |           | |    .****. .****.     | |           | |
+  | |   0   0   | |    .*****.*****.     | |   0   0   | |
+  | |     -     | |     .*********.      | |     -     | |
+  | |   \___/   | |      .*******.       | |   \___/   | |
+  | |___     ___| |       .*****.        | |___________| |
+  |_____|\_/|_____|        .***.         |_______________|
+    _|__|/ \|_|_.............*.............._|________|_
+   / ********** \                          / ********** \
+ /  ************  \                      /  ************  \
+--------------------                    --------------------
+╔╗ ┬ ┬  ╔╦╗┌─┐┌─┐┌─┐┌┐┌┌┬┐┌─┐┬─┐
+╠╩╗└┬┘   ║║├┤ ├┤ ├┤ │││ ││├┤ ├┬┘
+╚═╝ ┴   ═╩╝└─┘└  └─┘┘└┘─┴┘└─┘┴└─
+If you like my script give respect on Hackthebox.eu
+https://www.hackthebox.eu/home/users/profile/19685
+</pre>
+<pre>
+
+</pre>
