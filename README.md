@@ -1,5 +1,6 @@
 # **mag1cr3c0n**
 #### *Usage: call from terminal 'mag1cr3c0n' and follow onscreen instructions. Available Modules: nmap, gobuster, enum4linux and nikto*
+you can run different modules in different tabs.
 <pre>
 To install:   
 root@kali:~# git clone https://github.com/d3f3nd3r-888/mag1cr3c0n.git 
