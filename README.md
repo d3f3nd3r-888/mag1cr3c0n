@@ -37,8 +37,8 @@ https://www.hackthebox.eu/home/users/profile/19685
 <pre>
 ***************************************************
 Nmap Scan Types
-1. Quick Scan			2. Regular Scan
-3. Scan Top Ports		4. Scan All TCP Ports
+1. Quick Scan		2. Regular Scan
+3. Scan Top Ports	4. Scan All TCP Ports
 5. Scan All UDP ports		
 ***************************************************
 </pre>
